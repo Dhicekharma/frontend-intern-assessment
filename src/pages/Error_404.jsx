@@ -22,7 +22,7 @@ function Error_404() {
                               </Link>
                         </div>
                     </div>
-                    <div>
+                    <div className="">
                         <img src="https://i.ibb.co/G9DC8S0/404-2.png" />
                     </div>
                 </div>
