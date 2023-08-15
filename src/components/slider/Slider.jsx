@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 
 const images = [
   'https://gh.jumia.is/cms/0-Weekly-CP/2023/WK31/Slider/Nasco_ls_d.jpg',
-  'https://example.com/image2.jpg',
-  'https://example.com/image3.jpg',
-  // ... add more image URLs
+  'https://gh.jumia.is/cms/0-Weekly-CP/2023/WK33/Slider/BTS-Slider_generic.jpg',
+  'https://gh.jumia.is/cms/0-Weekly-CP/2023/WK33/Slider/Chef_it_up_d.png',
 ];
+
 
 function Slider() {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
